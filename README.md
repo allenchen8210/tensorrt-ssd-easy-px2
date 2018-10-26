@@ -32,7 +32,7 @@ $ cd tensorrt-ssd-easy-px2
 
 $ mkdir build 
 ```
-Then you shold edit your CMakeLists.txt to make program find  your TensroRT, like below
+Then you should edit your CMakeLists.txt to make program find  your TensroRT, like below
 ```
 ...
 include_directories(/home/mec/JN_work/tensorrt-ssd-easy-px2_new/TensorRT-3.0.4/include)
