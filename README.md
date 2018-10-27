@@ -1,6 +1,6 @@
 # tensorrt-ssd-easy-px2 
 
-This project not finish yet
+This project not finish yet ...
 
 
 ## Environment
